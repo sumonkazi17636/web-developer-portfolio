@@ -30,6 +30,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0px 200px;
 }
 
 nav >ul {
@@ -46,4 +47,14 @@ nav a{
     text-decoration: none;
     color: #474747;
     
+}
+.header{
+    background-color: #FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+}
+.banner .profile-picture{
+    width: 400px;
 }
